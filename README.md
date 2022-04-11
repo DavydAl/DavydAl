@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/DavydAl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavydAl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavydAl&layout=compact&langs_count=7&theme=tokyonight"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavydAl&layout=compact&langs_count=7&theme=tokyonight"/>-->
 </div>
   
   <!---Icones das linguagens que utilizo-->
@@ -12,7 +12,7 @@
   <img align="center" alt="Davyd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Davyd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davyd-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Davyd-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <!--<img align="center" alt="Davyd-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
   <img align="center" alt="Davyd-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
