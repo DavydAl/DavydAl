@@ -4,12 +4,12 @@
 <!---Template com informações dos Commit's-->
 <div align="center">
   <a href="https://github.com/DavydAl">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DavydAl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <!--<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavydAl&layout=compact&langs_count=15&theme=dracula"/>-->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DavydAl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavydAl&layout=compact&langs_count=15&theme=dracula"/>
 </div>
   
   <!---Icones das linguagens que utilizo-->  
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img align="center" alt="Davyd-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
