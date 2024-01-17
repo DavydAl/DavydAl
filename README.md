@@ -1,10 +1,10 @@
 ## Olá, eu sou o Davyd Almeida! 👋
 
-👨🏽‍💻 Desenvolvedor.<br><br>
+👨🏽‍💻 Desenvolvedor de Software | Full Stack | C# | .NET | Angular<br><br>
 <!---Template com informações dos Commit's-->
 <div align="center">
   <a href="https://github.com/DavydAl">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DavydAl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
+  <!--<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DavydAl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>-->
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavydAl&layout=compact&langs_count=15&theme=dracula"/>
 </div>
   
